@@ -1,0 +1,11 @@
+{
+  "org": "marshmallow-code",
+  "repo": "marshmallow-jsonapi",
+  "versions": [
+    {
+      "commit": "e7273b4c3e6b7bad6279302caef2a87c96fbb785",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:17:52.324642+00:00"
+    }
+  ]
+}
