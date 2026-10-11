@@ -1,0 +1,7 @@
+[2026-10-11T02:16:35Z] === AST ITERATION 1 START | repo=marshmallow-code/marshmallow-jsonapi sha=e7273b4c ===
+[2026-10-11T02:16:35Z] [iter=1] PHASE START: ast repo=marshmallow-code/marshmallow-jsonapi sha=e7273b4c
+[2026-10-11T02:16:35Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T02:16:50Z] [iter=1] AST chunks built count=1 triples=141166
+[2026-10-11T02:16:50Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/e7273b4c3e6b7bad6279302caef2a87c96fbb785/.complete
+[2026-10-11T02:16:50Z] [iter=1] PHASE END: ast elapsed_s=15 elapsed_min=0.3
+[2026-10-11T02:16:50Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
